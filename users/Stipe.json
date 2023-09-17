@@ -1,0 +1,12 @@
+{
+	"name": "Stipe",
+	"age": 45,
+	"contact": "213",
+	"company": "Yandex",
+	"address": {
+		"street": "Street 6",
+		"city": "City 6",
+		"country": "Country 6",
+		"pincode": 123456
+	}
+}

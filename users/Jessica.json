@@ -1,0 +1,12 @@
+{
+	"name": "Jessica",
+	"age": 22,
+	"contact": "213",
+	"company": "Google",
+	"address": {
+		"street": "Street 3",
+		"city": "City 3",
+		"country": "Country 3",
+		"pincode": 123456
+	}
+}

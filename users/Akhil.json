@@ -1,0 +1,12 @@
+{
+	"name": "Akhil",
+	"age": 34,
+	"contact": "213",
+	"company": "Meta",
+	"address": {
+		"street": "Street 4",
+		"city": "City 4",
+		"country": "Country 4",
+		"pincode": 123456
+	}
+}

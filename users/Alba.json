@@ -1,0 +1,12 @@
+{
+	"name": "Alba",
+	"age": 42,
+	"contact": "213",
+	"company": "Amazon",
+	"address": {
+		"street": "Street 5",
+		"city": "City 5",
+		"country": "Country 5",
+		"pincode": 123456
+	}
+}

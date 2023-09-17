@@ -1,0 +1,12 @@
+{
+	"name": "Paul",
+	"age": 27,
+	"contact": "213",
+	"company": "Facebook",
+	"address": {
+		"street": "Street 2",
+		"city": "City 2",
+		"country": "Country 2",
+		"pincode": 123456
+	}
+}
